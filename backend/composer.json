@@ -12,6 +12,7 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "spatie/laravel-backup": "^6.16",
+        "spatie/laravel-medialibrary": "^9.6.0",
         "tailflow/laravel-orion": "^2.1",
         "yajra/laravel-datatables-oracle": "^9.18"
     },

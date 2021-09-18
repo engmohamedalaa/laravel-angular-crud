@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\StudentController;
+use App\Http\Controllers\ClientController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,3 +21,8 @@ Route::get('/', function () {
 Route::get('students', [StudentController::class, 'index']);
 
 Route::get('students/list', [StudentController::class, 'getStudents'])->name('students.list');
+
+
+Route::get('client',[ClientController::class,'index'])->name('client');
+Route::get('client/create',[ClientController::class,'create'])->name('client.create');
+Route::post('client/store',[ClientController::class,'store'])->name('client.store');
