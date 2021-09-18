@@ -1,0 +1,7 @@
+php artisan backup:run
+################
+if have an error when run above command so input:
+[mysqldump]
+column-statistics=0
+At location: /etc/mysql/mysql.cnf
+################
