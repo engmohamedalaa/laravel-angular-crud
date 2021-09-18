@@ -4,3 +4,5 @@
 #2. Make Apply For Yajra Datatables Example
 #3. Make Apply For Laravel Backup
 #4. Make CRUD Operations With Angular & Laravel API
+#5. To Use Regular Laravel App With Yajra Datatables Go To: http://127.0.0.1:8000/students
+#6. To Use Angular Laravel App Go To: http://localhost:4200/person/index
