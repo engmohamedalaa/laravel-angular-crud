@@ -6,3 +6,4 @@
 #4. Make CRUD Operations With Angular & Laravel API <br>
 #5. To Use Regular Laravel App With Yajra Datatables Go To: http://127.0.0.1:8000/students <br>
 #6. To Use Angular Laravel App Go To: http://localhost:4200/person/index <br>
+#7. Make Clients Module with Spatie Media Library To Use Go TO: http://localhost:8000/client <br>
