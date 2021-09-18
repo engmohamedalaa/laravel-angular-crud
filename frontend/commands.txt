@@ -1,0 +1,1 @@
+pkill -9 ng -> Kill angular server for using port issue
